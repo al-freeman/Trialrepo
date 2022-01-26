@@ -1,0 +1,5 @@
+git status #checks current status of repository 
+git add -A #adds altered and untracked files to staging area (first step of committing
+git commit -am '<message>'#all files, message, commit changes with message
+git push #push committed changes up to GitHub
+git pull #pull any changes from GitHub down to local repo, can be useful if you're working on a new computer and want to pull from your GitHub
